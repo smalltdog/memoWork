@@ -1,6 +1,5 @@
-git is work
+实习作业
 ===========
-git not work
-ohohohohoh
+*devlog*: 开发日志
 
-make some new line;
+其他部分尚未上传
